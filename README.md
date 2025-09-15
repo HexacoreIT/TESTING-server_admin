@@ -1,2 +1,2 @@
 # TESTING-server_admin
-Administrador de servidores vía web browser para Ubuntu Server
+Interfaz de administración web para servidores Unix & Linux
